@@ -1,0 +1,12 @@
+.banner {
+  background: url("./img/smroap.jpg") no-repeat center;
+  background-size: cover;
+  padding: 20%;
+  color: #fff;
+}
+
+#projects {
+  background-color: #e2edff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
